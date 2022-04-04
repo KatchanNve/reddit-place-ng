@@ -1,11 +1,11 @@
 // ==UserScript==
-// @name         Reddit Place - Armée de Kameto
+// @name         Reddit Place - NG Logo
 // @namespace    http://tampermonkey.net/
 // @version      0.1
-// @description  On va récuperer ce qui nous est du de droit.
-// @author       Adcoss95
+// @description  Pour que NG soit aussi dans le game
+// @author       Katchan
 // @match        https://hot-potato.reddit.com/embed*
-// @icon         https://styles.redditmedia.com/t5_4eiiz1/styles/communityIcon_ojy24r8j90o81.jpg
+// @icon         https://pbs.twimg.com/profile_images/1504429845593440261/R7Jr5lxo_400x400.png
 // @grant        none
 // ==/UserScript==
 if (window.top !== window.self) {
